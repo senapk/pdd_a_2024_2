@@ -3,10 +3,12 @@
     "version": "0.0.0",
     "local": "",
     "expanded": [
-        "linguagem-ts",
-        "ts-fup"
+        "campanha-principal",
+        "primeiras-classes"
     ],
     "tasks": {
+        "animal": "10:0:100",
+        "ts_fup_1": "10:0:50",
         "ts_fup_2": "8:0:80"
     },
     "flags": {
@@ -19,5 +21,5 @@
     },
     "new_items": [],
     "lang": "ts",
-    "index": "ts_fup_2"
+    "index": "animal"
 }

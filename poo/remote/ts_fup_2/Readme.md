@@ -2,6 +2,9 @@
 
 - O que é TypeScript e como ele se relaciona com o JavaScript?
   - É um superset do javascript que faz principalmente a verificação de tipos.
+
+
+  as
 - Porque dizemos que Typescript é transpilado ao invés de compilado?
   - Porque ele não gera código executável, mas gera um código javascript que será interpretado pelo node.
 - Qual é a diferença entre variáveis ​​declaradas com `var`, `let` e `const` em TypeScript?
