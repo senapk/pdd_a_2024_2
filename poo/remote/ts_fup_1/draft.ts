@@ -3,11 +3,7 @@ function input(): string { let X: any = input; X.L = X.L || require("fs").readFi
 function write(text: any, endl="\n") { process.stdout.write("" + text + endl); }
 export {};
 
-function soma(a: number, b: number): number {
-    return a + b;
-}
-
 function main() {
-
+    write("qxcode");
 }
 main();

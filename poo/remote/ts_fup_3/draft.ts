@@ -4,10 +4,6 @@ function write(text: any, endl="\n") { process.stdout.write("" + text + endl); }
 export {};
 
 function main() {
-    let nome: string = "João";
-    let idade: number = 15;
-    if (idade > 18) {
-        console.log("Maior de idade");
-    }
+    write("qxcode");
 }
 main();

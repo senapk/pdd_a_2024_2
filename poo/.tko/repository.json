@@ -4,13 +4,10 @@
     "local": "",
     "expanded": [
         "linguagem-ts",
-        "ts-install",
         "ts-fup"
     ],
     "tasks": {
-        "ts_fup_1": "8:0:100",
-        "ts_fup_2": "7:0:100",
-        "ts_fup_3": "10:0:100"
+        "ts_fup_2": "8:0:80"
     },
     "flags": {
         "minimum": 0,
@@ -22,5 +19,5 @@
     },
     "new_items": [],
     "lang": "ts",
-    "index": "ts_fup_3"
+    "index": "ts_fup_2"
 }

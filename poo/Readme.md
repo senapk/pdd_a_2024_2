@@ -44,6 +44,8 @@
 - [ ] `#git        .`[Introdução ao git](https://github.com/qxcodepoo/arcade/blob/master/wiki/git/README.md)
 - [ ] `#tko        .`[Instalando e configurando o tko](https://github.com/senapk/tko#tko---test-kit-operations)
 - [ ] `#codespace  .`[Configurando sua máquina virtual](https://github.com/senapk/tko/blob/master/replit/Readme.md)
+- [ ] `#github     .`[Habilitando a conta Educational no Github](https://github.com/qxcodepoo/arcade/blob/master/wiki/git/github.md)
+- [ ] `#chaves_ssh .`[Configurando acesso ao Github na sua máquina](https://github.com/qxcodepoo/arcade/blob/master/wiki/git/chaves.md)
 
 ### Conteúdo extra
 
@@ -125,8 +127,8 @@
 
 ### CPP - Introdução
 
-- [ ] `#cpp_intro      .`[Pesquisa sobre C++](https://github.com/qxcodepoo/arcade/blob/master/wiki/cpp/intro_cpp.md)
-- [ ] `#cpp_memory     .`[Pesquisa sobre alocação de memória](https://github.com/qxcodepoo/arcade/blob/master/wiki/memoria/README.md)
+- [ ] `@cpp_intro      .`[Pesquisa sobre C++](https://github.com/qxcodepoo/arcade/blob/master/wiki/cpp/intro_cpp.md)
+- [ ] `@cpp_memory     .`[Pesquisa sobre alocação de memória](https://github.com/qxcodepoo/arcade/blob/master/wiki/memoria/README.md)
 
 ## Linguagem TS
 
